@@ -26,7 +26,8 @@
         <activity
             android:name=".tutorCourses"
             android:label="@string/title_activity_tutor_courses"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".StartingScreenActivity"></activity>
     </application>
 
 </manifest>
